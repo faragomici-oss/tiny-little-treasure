@@ -1,2 +1,3 @@
 # tiny-little-treasure
 Das ist nur ein kleines Unternehmen, hier gibt es süße Sachen, zum Beispiel Capybara-Halter oder Gesichtsmasken mit Panda darauf und die anderen Sachen. ...
+<img width="3500" height="1440" alt="E und M" src="https://github.com/user-attachments/assets/e1b18099-cf54-4b7f-bb5e-e4c37cfeafc8" />
